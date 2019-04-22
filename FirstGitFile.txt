@@ -1,1 +1,3 @@
-Hello, this is first test file added in GIT
+Hello, this is first test file added in GIT.
+
+Added additional line
